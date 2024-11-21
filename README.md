@@ -1,4 +1,1 @@
 # scorely
-
-
-test
